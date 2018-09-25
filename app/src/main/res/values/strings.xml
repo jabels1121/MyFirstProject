@@ -3,4 +3,6 @@
     <string name="Hello_World">Hello World!</string>
     <string name="bnt_Text">Greetings!</string>
     <string name="bnt_Text2">Hello!</string>
+    <string name="bnt_Text3">Another Activity</string>
+    <string name="bnt_Text4">Back to MainActivity</string>
 </resources>

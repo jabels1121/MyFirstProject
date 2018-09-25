@@ -33,4 +33,13 @@
         android:layout_gravity="center"
         />
 
+    <Button
+        android:id="@+id/intentToAnotherActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:text="@string/bnt_Text3"
+        android:onClick="goToAnotherActivity"
+        />
+
 </LinearLayout>
